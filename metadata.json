@@ -1,0 +1,6 @@
+{
+  "name": "Kiddy Zone",
+  "description": "Kiddy Zone Qatar - Premier toy store destination with iconic brands, Doha store pickup, QAR pricing, safe kids mode, and same-day Qatar delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
