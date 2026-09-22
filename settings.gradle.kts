@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Kiddy Zone"
 
-include(":app")
+//include(":app")
