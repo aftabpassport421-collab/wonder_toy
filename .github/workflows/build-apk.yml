@@ -21,7 +21,7 @@ jobs:
         uses: gradle/actions/setup-gradle@v3
 
       - name: Build APK with System Gradle
-        run: gradle :app:assembleDebug
+        run: gradle :app:assembleDebug --no-configuration-cache
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
